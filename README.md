@@ -1,5 +1,7 @@
 # blockapps-js 
 
+[![Join the chat at https://gitter.im/blockapps/blockapps-js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/blockapps/blockapps-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![BlockApps logo](http://blockapps.net/img/logo_cropped.png)](http://blockapps.net)
 
 [![Build Status](https://travis-ci.org/blockapps/blockapps-js.svg)](https://travis-ci.org/blockapps/blockapps-js)
